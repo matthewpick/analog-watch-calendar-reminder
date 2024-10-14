@@ -2,7 +2,8 @@
 
 Programatically generate a "subscribable" ICS calendar for custom calendar notifications. Hosted via Vercel.
 
-This particular calendar reminder is related to 31-day wristwatches, you must manually set the date after a "short" month.
+This particular calendar reminder is related to 31-day calendar wristwatches, 
+you must manually set the date after a "short" month.
 
 ## Purpose
 
